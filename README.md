@@ -26,17 +26,18 @@ This is the original unfiltered data:
 
   ![country_filter.png](country_filter.png)
 
-- And finally, if you need to know only about sightings with circle shape you can do it by filtering the table in the  "Enter Shape" box.
+- And finally, if you need to know only about sightings with certain shape you can do it by filtering the table in the  "Enter Shape" box.
 
   ![shape_filter.png](shape_filter.png)
 
-  
+- The filters also can be applied together
+
+  ![multiple_filters.png](multiple_filters.png)
+
+
 
 ## Summary 
 
-Therefore users can see the article, the table of UFO sightings data and  filter it by five parameters. The drawback of this design is that these filters work only separately so you can't filter the data by two or more parameters at the same time. 
+Therefore users can see the article, the table of UFO sightings data and  filter it by five parameters. The drawback of this design is that there is no way users can communicate to owners of the web page. There are some question and request to let them know what users think about given information but no place to reply.
 
-For further development I would recommend to make these filters work together and add a responsive map of the sightings.
-
-
-
+For further development I would recommend to add a "feedback" or "contact us" input box(es) and create a responsive map of the sightings for better visual representation of the data.
